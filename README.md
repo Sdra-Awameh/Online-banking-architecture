@@ -58,13 +58,6 @@ Each client communicates with the backend using **HTTPS** for secure data transf
 
 ---
 
-## 🖼️ System Architecture Diagram
-
-> *(Insert your actual image files in the `Architecture_Diagrams/` folder)*
-
-![Architecture Diagram](Architecture_Diagrams/main-architecture.png)
-
----
 
 ## 🔒 Security Features
 
