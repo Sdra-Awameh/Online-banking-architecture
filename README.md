@@ -2,7 +2,7 @@
 
 📘 Software Architecture project for an online banking platform, created as part of university coursework.
 
-> Created by **SDRA Osama Awameh** – Second Semester 2024/2025
+> Created by **Sdra Osama Awameh** – Second Semester 2024/2025
 
 ---
 
