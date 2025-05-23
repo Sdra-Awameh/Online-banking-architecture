@@ -98,5 +98,5 @@ Each client communicates with the backend using **HTTPS** for secure data transf
 
 ---
 
-> 📌 Created by **SDRA Osama Awameh**  
+> 📌 Created by **Sdra Osama Awameh**  
 > 📅 Software Architecture Course – Second Semester 2024/2025
