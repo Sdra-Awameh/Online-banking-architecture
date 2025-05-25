@@ -85,21 +85,7 @@ The updated architecture improves scalability, fault tolerance, and modularity. 
 
 ---
 
-## 🚀 How to View
 
-- Open the `Assignment.pdf` for full documentation (Parts 1 & 2)  
-- View updated architecture diagrams in the `Architecture_Diagrams/` folder  
-- Explore system structure and quality mapping in this `README.md`
-
----
-
-## 📁 Contents
-
-- `README.md` – this file  
-- `Assignment.pdf` – final submitted document  
-- `Architecture_Diagrams/` – system diagrams for both parts  
-
----
 
 > 📌 Created by **Sdra Osama Awameh**  
 > 📅 Software Architecture Course – Second Semester 2024/2025
