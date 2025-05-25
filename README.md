@@ -6,18 +6,6 @@
 
 ---
 
-## 📚 Table of Contents
-
-- [Project Overview](#project-overview)
-- [Client Presentation Layer](#client-presentation-layer)
-- [Part One – Initial Architecture](#part-one--initial-architecture)
-- [Part Two – Architecture Extension](#part-two--architecture-extension)
-- [Security Features](#security-features)
-- [Quality Attributes Supported](#quality-attributes-supported)
-- [How to View](#how-to-view)
-- [Contents](#contents)
-
----
 
 ## 📌 Project Overview
 
